@@ -1,6 +1,7 @@
 # React Jobs Project
 
-<img src="public/screen.png" />
+![image](https://github.com/AlexMandic6/react-jobs/assets/60902831/909c74d9-ea86-4719-9aa4-2766a2bf9b77)
+
 
 ## Usage
 
